@@ -14,8 +14,7 @@ Make an expense calulator using basic JavaScript commands.
 
 
 ### View Project:
-(Replace this statement with your GitHub Page URL that was created when you 
- published the project.)
+https://ajg14f.github.io/lesson4_javascript-1/
 
 ### Lessons Learned in the Assignment:
 1. What a client-side scripting language is and what how it works.
